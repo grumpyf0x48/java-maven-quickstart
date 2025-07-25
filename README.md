@@ -12,6 +12,10 @@ It adds the following to what was defined in [java9-minimal-quickstart](https://
 - Add `jacoco-maven-plugin` plugin for code coverage
 - Add `maven-enforcer-plugin` and `versions-maven-plugin` plugins for obsolete dependencies handling
 
+## ⚠ Repository is archived
+
+_Warning:_ This repository is now archived and will no longer be updated.
+
 ## Usage
 
 To create a new Java project using this archetype, you need either:
